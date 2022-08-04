@@ -1,7 +1,5 @@
 # Local_search
 
-Introduction to AI Assignment 1
-Individual Work
 1. Identify two very different existing AI systems and characterize them based on
 the PEAS problem formulation. Give a detailed explanation of the applications
 based on these four fundamental concepts. (Read Part I, Chapter 1, and
